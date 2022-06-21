@@ -6,7 +6,7 @@ This is a sample repository for completing the tech task on Kodenoobs platform.
 This repository had been cloned and pushed into my account for "Kode noob task" 
 
 ## repository tree
-
+```
 ├───app
 │   └───src
 │       ├───main
@@ -24,12 +24,14 @@ This repository had been cloned and pushed into my account for "Kode noob task"
 └───tags
     └───Mr-vabs
 
+
+```
 Desired file at
 
 ```
-kodenoobtask -> tags-> Mr-vabs -> kodenoobtask file
+kodenoobtask -> tags-> Mr-vabs -> kodenoobs file
 ```
 
-file with content ok within it at location `kodenoobtask->tags->Mr-vabs->kodenoobtask`
+file with content ok within it at location `kodenoobtask->tags->Mr-vabs->kodenoobs`
 
-[Click here](https://github.com/Mr-vabs/kodenoobtask/blob/main/tags/Mr-vabs/kodenoobtask) to see the desired file.
+[Click here](https://github.com/Mr-vabs/kodenoobtask/blob/main/tags/Mr-vabs/kodenoobs) to see the desired file.
